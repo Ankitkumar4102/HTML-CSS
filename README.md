@@ -1,2 +1,2 @@
 # HTML-CSS
-I created all the project related to HTM-CSS
+Repository dedicated to HTML and CSS projects, exercises, and code snippets.
